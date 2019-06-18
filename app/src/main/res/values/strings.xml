@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lannister Realty</string>
+    <string name="address_text">921 Gold Road</string>
+    <string name="city_text">Lannisport, Westeros</string>
 </resources>
